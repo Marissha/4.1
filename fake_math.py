@@ -3,5 +3,3 @@ def fake_divide(first, second):
         return  'Ошибка!'
     else:
         return first / second
-
-
